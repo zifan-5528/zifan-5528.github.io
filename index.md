@@ -37,12 +37,12 @@ Sampling,”](./WZF_RNC.pdf) International Journal of Robust and Nonlinear Contr
 Networks,”](./WZF_IET.pdf) In Preparation.
 
 ### Skills
--**Language** Toefl 97 (R:28/L:22/S:22/W:25)  
+- **Language** Toefl 97 (R:28/L:22/S:22/W:25)  
 
--**Programming Language**:C, C++, Matlab, Python  
+- **Programming Language**:C, C++, Matlab, Python  
 
--**Miscellaneous**:LaTeX, JETSON TX2, Linux, STM32  
+- **Miscellaneous**:LaTeX, JETSON TX2, Linux, STM32  
 
--**Sports**: Swimming, Basketball, Badminton
+- **Sports**: Swimming, Basketball, Badminton
 
 
