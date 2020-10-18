@@ -6,7 +6,7 @@
     </td>
     <td width="75%">
       <h1>Zifan Wang 王子凡</h1>
-      <p><b>Second-year Undergraduate</b></p>
+      <p><b>Second-year graduate</b></p>
       <p><b>Control Science and Eigeneering</b></p>
       <p><b>Harbin Institute of Technology</b></p>
     </td>
