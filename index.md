@@ -1,12 +1,29 @@
 ## Zifan Wang
-
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="Pic.jpg" width="100%">      % 插入证件照代码
+    </td>
+    <td width="75%">
+      <h1>Zifan Wang 王子凡</h1>
+      <p><b>Second-year Undergraduate</b></p>
+      <p><b>Control Science and Eigeneering</b></p>
+      <p><b>Harbin Institute of Technology</b></p>
+    </td>
+  </tr>
+</table>
 ## Research Interest
-
+-Event-based control and estimation
+-Nonlinear network control
+-distributed control and optimization
 ## Biography
-
+I am pursuing the master degree in control science and engineering at the Harbin Institute of Technology since 2019. 
+I obtained the bachelor degree in automation (Honors School) at Harbin Institute of Technology from 2015 to 2019.
+In August 2019, I studied at the University of Cambridge in a short-term study program.
 ## Publication
-
+-
 ## Skills
+-
 
 You can use the [editor on GitHub](https://github.com/zifan-5528/zifan-5528.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
