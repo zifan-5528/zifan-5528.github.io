@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="Pic.jpg" width="100%">     
+      <img src="Pic2.jpg" width="100%">     
     </td>
     <td width="75%">
       <h1>Zifan Wang 王子凡</h1>
