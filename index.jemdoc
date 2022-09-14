@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}
+= Zifan Wang's Homepage
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{142}{163}
+Zifan Wang\n
+Doctoral Student\n
+[https://www.kth.se/is/dcs/ Division of Decision and Control Systems]\n
+[https://www.kth.se/eecs School of Electrical Engineering and Computer Science] \n
+[https://www.kth.se/ KTH Royal Institute of Technology]\n
+Email: /zifanw/ \[@\] kth \[DOT\] se\n
+
+~~~
+
+== About me
+I am a Phd student affiliated with Division of Decision and Control Systems (DCS) at KTH Royal Institute of Technology. I am fortunate to jointly work with Prof. Karl H. Johansson and Prof. Michael M. Zavlanos. I received my master degree and bachelor degree both at Harbin Institute of Technology. 
+
+== Research
+My research insterests include 
+- online optimization
+- risk-averse learning
+- learning-based control
+
+== News
+- 06/2022: I joined DCS as a Doctoral student!
+
+
