@@ -2,7 +2,7 @@
 = Zifan Wang's Homepage
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{142}{163}
+{}{img_left}{./photos/bio.jpg}{alt text}{142}{163}
 Zifan Wang\n
 Doctoral Student\n
 [https://www.kth.se/is/dcs/ Division of Decision and Control Systems]\n
