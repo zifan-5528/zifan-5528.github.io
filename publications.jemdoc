@@ -4,25 +4,33 @@
 == Submitted Works
 
 
-
 == Machine Learning Conference Papers
 
-
-
-
-- 1. *Z. Wang*, Y. Shen, Z. I. Bell, S. Nivison, M. M. Zavlanos, and K. H. Johansson, A Zeroth-Order Momentum Method for Risk-Averse Online Convex Games, 61st IEEE Conference on Decision and Control (CDC), Cancun, Mexico, Dec. 2022, accepted.
+- [https://proceedings.mlr.press/v162/wang22w.html Risk-Averse No-Regret Learning in Online Convex Games]
+-- *Zifan Wang*, Yi Shen, Michael M. Zavlanos
+-- International Conference on Machine Learning (ICML2022)
 
 
 
 
 == Journal Papers
 
+- Distributed dynamic event-triggered communication and control for multi-agent consensus: A hybrid system approach
+-- *Zifan Wang*, Yabin Gao, Yifan Liu, Siyi Wang, Ligang Wu
+-- Information Science. 618: 191-208. 2022
 
 
-
-- 1. *Z. Wang*, Y. Gao, Y. Liu, S. Wang, L. Wu, Distributed dynamic event-triggered communication and control for multi-agent consensus: A hybrid system approach, Information Science, 2022, accepted.
 
 == Control Conference Papers
 
+- A Zeroth-Order Momentum Method for Risk-Averse Online Convex Games
+-- *Zifan Wang*, Yi Shen, Zachary I. Bell, Scott Nivison, Michael M. Zavlanos, Karl H. Johansson
+-- IEEE Conference on Decision and Control (CDC2022)
 
-- 1. *Z. Wang*, Y. Shen, M. M. Zavlanos. [https://proceedings.mlr.press/v162/wang22w.html Risk-Averse No-Regret Learning in Online Convex Games] [C]//International Conference on Machine Learning. PMLR, 2022: 22999-23017.
+
+
+
+
+
+
+
