@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{publications.html} 
+= Publications
+
+== Preprints
+
+
+== Machine Learning Conference Papers
+
+- [https://arxiv.org/abs/2303.13657 Policy Evaluation in Distributional LQR]
+-- *Zifan Wang*, Yulong Gao, Siyi Wang, Michael M. Zavlanos, Alessandro Abate, Karl H. Johansson
+-- Learning for Dynamics and Control (L4DC)
+
+- [https://proceedings.mlr.press/v162/wang22w.html Risk-Averse No-Regret Learning in Online Convex Games]
+-- *Zifan Wang*, Yi Shen, Michael M. Zavlanos
+-- International Conference on Machine Learning (ICML2022)
+
+
+
+
+== Journal Papers
+
+- Distributed dynamic event-triggered communication and control for multi-agent consensus: A hybrid system approach
+-- *Zifan Wang*, Yabin Gao, Yifan Liu, Siyi Wang, Ligang Wu
+-- Information Science. 618: 191-208. 2022
+
+
+
+== Control Conference Papers
+
+- A Zeroth-Order Momentum Method for Risk-Averse Online Convex Games
+-- *Zifan Wang*, Yi Shen, Zachary I. Bell, Scott Nivison, Michael M. Zavlanos, Karl H. Johansson
+-- IEEE Conference on Decision and Control (CDC2022)
+
+
+
+
+
+
+
+
