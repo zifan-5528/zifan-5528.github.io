@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jemdoc: menu{MENU}{index.html}
 = Zifan Wang's Homepage
 
@@ -28,3 +29,35 @@ My research insterests lie in
 - 06/2022: I joined KTH DCS as a Doctoral student!!
 
 
+=======
+# jemdoc: menu{MENU}{index.html}
+= Zifan Wang's Homepage
+
+~~~
+{}{img_left}{photos/bio2.jpg}{alt text}{230}{360}
+Zifan Wang\n
+Doctoral Student\n
+[https://www.kth.se/is/dcs/ Division of Decision and Control Systems]\n
+[https://www.kth.se/eecs School of Electrical Engineering and Computer Science] \n
+[https://www.kth.se/ KTH Royal Institute of Technology]\n
+Email: /zifanw/ \[@\] kth \[DOT\] se\n
+
+~~~
+
+== About me
+I am a first-year Phd student affiliated with Division of Decision and Control Systems (DCS) at KTH Royal Institute of Technology. I am fortunate to jointly work with [https://people.kth.se/~kallej/ Prof. Karl H. Johansson] at KTH and [https://www.michaelmzavlanos.org/ Prof. Michael M. Zavlanos] at Duke University. I received my master degree and bachelor degree both at Harbin Institute of Technology. 
+
+== Research
+My research insterests lie in
+- online optimization
+- risk-averse learning
+- learning-based control
+- game theory
+
+== News
+- 03/2023: I give a talk at New York University hosted by [https://scholar.google.com/citations?user=Qt2WDh0AAAAJ&hl=zh-CN/ Prof. Quanyan Zhu] Nice to meet you all!
+- 12/2022: I attended [https://cdc2022.ieeecss.org/ IEEE CDC 2022] in Mexico.
+- 06/2022: I joined KTH DCS as a Doctoral student!!
+
+
+>>>>>>> 5c51bc4818425e7e50d6b31349d6f875c217a809

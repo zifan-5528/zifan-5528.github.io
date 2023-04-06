@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jemdoc: menu{MENU}{publications.html} 
 = Publications
 
@@ -38,3 +39,41 @@
 
 
 
+=======
+# jemdoc: menu{MENU}{publications.html} 
+= Publications
+
+== Preprints
+
+
+== Machine Learning Conference Papers
+
+- [https://proceedings.mlr.press/v162/wang22w.html Risk-Averse No-Regret Learning in Online Convex Games]
+-- *Zifan Wang*, Yi Shen, Michael M. Zavlanos
+-- International Conference on Machine Learning (ICML2022)
+
+
+
+
+== Journal Papers
+
+- Distributed dynamic event-triggered communication and control for multi-agent consensus: A hybrid system approach
+-- *Zifan Wang*, Yabin Gao, Yifan Liu, Siyi Wang, Ligang Wu
+-- Information Science. 618: 191-208. 2022
+
+
+
+== Control Conference Papers
+
+- A Zeroth-Order Momentum Method for Risk-Averse Online Convex Games
+-- *Zifan Wang*, Yi Shen, Zachary I. Bell, Scott Nivison, Michael M. Zavlanos, Karl H. Johansson
+-- IEEE Conference on Decision and Control (CDC2022)
+
+
+
+
+
+
+
+
+>>>>>>> 5c51bc4818425e7e50d6b31349d6f875c217a809
