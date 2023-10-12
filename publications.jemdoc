@@ -23,7 +23,7 @@
 
 == Journal Papers
 
-- Distributed dynamic event-triggered communication and control for multi-agent consensus: A hybrid system approach
+- [https://www.sciencedirect.com/science/article/pii/S0020025522012774 Distributed dynamic event-triggered communication and control for multi-agent consensus: A hybrid system approach]
 -- *Zifan Wang*, Yabin Gao, Yifan Liu, Siyi Wang and Ligang Wu
 -- Information Science. 618: 191-208. 2022
 
@@ -31,14 +31,14 @@
 
 == Control Conference Papers
 
-- A Zeroth-Order Momentum Method for Risk-Averse Online Convex Games
--- *Zifan Wang*, Yi Shen, Zachary I. Bell, Scott Nivison, Michael M. Zavlanos and Karl H. Johansson
--- IEEE Conference on Decision and Control (CDC2022)
+
 
 - Convergence Analysis of the Best Response Algorithm for Time-Varying Games
 -- *Zifan Wang*, Yi Shen, Michael M. Zavlanos and Karl H. Johansson
 -- IEEE Conference on Decision and Control (CDC2023)
 
-
+- [https://ieeexplore.ieee.org/abstract/document/9992630 A Zeroth-Order Momentum Method for Risk-Averse Online Convex Games]
+-- *Zifan Wang*, Yi Shen, Zachary I. Bell, Scott Nivison, Michael M. Zavlanos and Karl H. Johansson
+-- IEEE Conference on Decision and Control (CDC2022)
 
 
