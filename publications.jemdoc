@@ -5,9 +5,6 @@
 - [http://arxiv.org/abs/2401.10240 Policy Evaluation in Distributional LQR (Extended Version)]
 -- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
 
-- Online Learning of Nash Equilibria in Risk-Averse Games
--- *Z. Wang*, Y. Shen, M. M. Zavlanos, and K. H. Johansson
-
 - [http://arxiv.org/abs/2310.02384 Constrained Optimization with Decision-Dependent Distributions]
 -- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
 
@@ -37,7 +34,9 @@
 
 == Control Conference Papers
 
-
+- Online Learning of Nash Equilibria in Risk-Averse Games
+-- *Z. Wang*, Y. Shen, M. M. Zavlanos, and K. H. Johansson
+-- American Control Conference (ACC2024)
 
 - [https://arxiv.org/abs/2309.00307 Convergence Analysis of the Best Response Algorithm for Time-Varying Games]
 -- *Z. Wang*, Y. Shen, M. M. Zavlanos, and K. H. Johansson
