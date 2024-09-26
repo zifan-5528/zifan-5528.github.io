@@ -20,6 +20,10 @@
 
 == Machine Learning Conference Papers
 
+- Outlier-Robust Distributionally Robust Optimization via Unbalanced Optimal Transport
+-- *Z. Wang*, Y. Shen, M. M. Zavlanos, and K. H. Johansson
+-- NeurIPS-24. Annual Conference on Neural Information Processing Systems, 2024.
+
 - [https://proceedings.mlr.press/v211/wang23c.html Policy Evaluation in Distributional LQR]
 -- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
 -- L4DC-23. Learning for Dynamics and Control, 2023. {{<font color="Red" size=+0.5><b>}}（Oral Presentation){{</b></font>}}
@@ -35,7 +39,7 @@
 
 - [https://www.sciencedirect.com/science/article/pii/S0020025522012774 Distributed Dynamic Event-Triggered Communication and Control for Multi-Agent Consensus: A Hybrid System Approach]
 -- *Z. Wang*, Y. Gao, Y. Liu, S. Wang, and L. Wu
--- Information Science. 618: 191-208. 2022
+-- Information Science. 618: 191-208. 2022.
 
 
 
