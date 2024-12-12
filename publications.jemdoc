@@ -2,29 +2,31 @@
 = Publications
 
 == Preprints
-- Risk-Averse Certification of Bayesian Neural Networks
--- X. Zhang, *Z. Wang*, Y. Gao, L. Romao, A. Abate, M. Kwiatkowska
-
-- [https://arxiv.org/abs/2409.16866 Risk-averse learning with delayed feedback]
--- S. Wang, *Z. Wang*, K. H. Johansson, S. Hirche
-
-- First- and Zeroth-Order Learning in Asynchronous Games
--- *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson
-
-- Projected Gradient Descent for Constrained Decision-Dependent Optimization
--- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
-
-- [https://arxiv.org/abs/2404.02988 Risk-averse Learning with Non-Stationary Distributions]
--- S. Wang, *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson, S. Hirche
-
-- [http://arxiv.org/abs/2401.10240 Policy Evaluation in Distributional LQR (Extended Version)]
--- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
+- [https://arxiv.org/abs/2307.08812 Asymmetric Feedback Learning in Online Convex Games]
+-- *Z. Wang*, X. Yi, Y. Shen, M. M. Zavlanos, and K. H. Johansson
 
 - [http://arxiv.org/abs/2310.02384 Constrained Optimization with Decision-Dependent Distributions]
 -- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
 
-- [https://arxiv.org/abs/2307.08812 Asymmetric Feedback Learning in Online Convex Games]
--- *Z. Wang*, X. Yi, Y. Shen, M. M. Zavlanos, and K. H. Johansson
+- [http://arxiv.org/abs/2401.10240 Policy Evaluation in Distributional LQR (Extended Version)]
+-- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
+
+- [https://arxiv.org/abs/2404.02988 Risk-averse Learning with Non-Stationary Distributions]
+-- S. Wang, *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson, S. Hirche
+
+- Projected Gradient Descent for Constrained Decision-Dependent Optimization
+-- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
+
+- First- and Zeroth-Order Learning in Asynchronous Games
+-- *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson
+
+- [https://arxiv.org/abs/2409.16866 Risk-averse learning with delayed feedback]
+-- S. Wang, *Z. Wang*, K. H. Johansson, S. Hirche
+
+- Risk-Averse Certification of Bayesian Neural Networks
+-- X. Zhang, *Z. Wang*, Y. Gao, L. Romao, A. Abate, M. Kwiatkowska
+
+
 
 == Machine Learning Conference Papers
 
