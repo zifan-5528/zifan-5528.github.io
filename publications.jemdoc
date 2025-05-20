@@ -16,18 +16,8 @@
 -- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
 
 
-- [http://arxiv.org/abs/2401.10240 Policy Evaluation in Distributional LQR (Extended Version)]
--- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
-
-
 - [https://arxiv.org/abs/2404.02988 Risk-averse Learning with Non-Stationary Distributions]
 -- S. Wang, *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson, S. Hirche
-
-
-
-
-
-
 
 
 
@@ -52,6 +42,10 @@
 
 
 == Journal Papers
+- [http://arxiv.org/abs/2401.10240 Policy Evaluation in Distributional LQR (Extended Version)]
+-- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
+-- IEEE Transactions on Automatic Control. To appear.
+
 - [https://arxiv.org/abs/2307.08812 Asymmetric Feedback Learning in Online Convex Games]
 -- *Z. Wang*, X. Yi, Y. Shen, M. M. Zavlanos, and K. H. Johansson
 -- IEEE Transactions on Automatic Control. Accepted.
