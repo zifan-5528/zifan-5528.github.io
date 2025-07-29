@@ -16,8 +16,6 @@
 -- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
 
 
-- [https://arxiv.org/abs/2404.02988 Risk-averse Learning with Non-Stationary Distributions]
--- S. Wang, *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson, S. Hirche
 
 
 
@@ -42,6 +40,11 @@
 
 
 == Journal Papers
+
+- [https://arxiv.org/abs/2404.02988 Risk-averse Learning with Non-Stationary Distributions]
+-- S. Wang, *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson, S. Hirche
+-- Automatica, accepted.
+
 - [https://ieeexplore.ieee.org/document/11020758 Policy Evaluation in Distributional LQR (Extended Version)]
 -- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
 -- IEEE Transactions on Automatic Control, 2025.
