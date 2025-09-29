@@ -2,6 +2,11 @@
 = Publications
 
 == Preprints
+- Distributionally Robust Federated Learning with Outlier Resilience
+-- *Z. Wang*, X. Yi, X. Konti, M. M. Zavlanos, and K. H. Johansson
+
+- [https://arxiv.org/abs/2509.21250 Federated Flow Matching]
+-- *Z. Wang*, A. Dong, M. Selim, M. M. Zavlanos, and K. H. Johansson
 
 - [https://arxiv.org/abs/2509.08942 Group Distributionally Robust Machine Learning under Group Level Distributional Uncertainty]
 -- X. Konti, Y. Shen, *Z. Wang*, K. H. Johansson, M. J. Pencina, N. J. Economou-Zavlanos, and M. M. Zavlanos
