@@ -14,8 +14,6 @@
 - [https://arxiv.org/abs/2508.14807 Source-Guided Flow Matching]
 -- *Z. Wang*, A. Harting, M. Barreau, M. M. Zavlanos, and K. H. Johansson
 
-- [https://arxiv.org/abs/2411.19729 Risk-Averse Certification of Bayesian Neural Networks]
--- X. Zhang, *Z. Wang*, Y. Gao, L. Romao, A. Abate, and M. Kwiatkowska
 
 - [https://arxiv.org/abs/2409.16866 Risk-averse learning with delayed feedback]
 -- S. Wang, *Z. Wang*, K. H. Johansson, and S. Hirche
@@ -34,6 +32,10 @@
 
 
 == Machine Learning Conference Papers
+
+- [https://arxiv.org/abs/2411.19729 Risk-Averse Certification of Bayesian Neural Networks]
+-- X. Zhang, *Z. Wang*, Y. Gao, L. Romao, A. Abate, and M. Kwiatkowska
+-- The Symposium on Software Engineering: Theories, Tools, and Applications (SETTA), 2025.
 
 - [https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d68a3f05ee2aae6a0fb2d94959082a0-Abstract-Conference.html Outlier-Robust Distributionally Robust Optimization via Unbalanced Optimal Transport]
 -- *Z. Wang*, Y. Shen, M. M. Zavlanos, and K. H. Johansson
