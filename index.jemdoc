@@ -35,3 +35,25 @@ I am much willing to work on interesting projects with external collaborators. F
 - 03/2023: I give a talk at New York University
 - 12/2022: I attend [https://cdc2022.ieeecss.org/ IEEE CDC 2022] in Mexico.
 - 06/2022: I join KTH DCS as a Doctoral student!!
+
+
+== Selected Publications
+
+- [https://arxiv.org/abs/2508.14807 Source-Guided Flow Matching]
+-- *Z. Wang*, A. Harting, M. Barreau, M. M. Zavlanos, and K. H. Johansson
+
+- [https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d68a3f05ee2aae6a0fb2d94959082a0-Abstract-Conference.html Outlier-Robust Distributionally Robust Optimization via Unbalanced Optimal Transport]
+-- *Z. Wang*, Y. Shen, M. M. Zavlanos, and K. H. Johansson
+-- NeurIPS-24. Annual Conference on Neural Information Processing Systems, 2024.
+
+- [https://proceedings.mlr.press/v162/wang22w.html Risk-Averse No-Regret Learning in Online Convex Games]
+-- *Z. Wang*, Y. Shen, and M. M. Zavlanos
+-- ICML-22. International Conference on Machine Learning, 2022.
+
+- [https://ieeexplore.ieee.org/document/10879777 Constrained Optimization with Decision-Dependent Distributions]
+-- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
+-- IEEE Transactions on Automatic Control, 2025.
+
+- [https://ieeexplore.ieee.org/document/11020758 Policy Evaluation in Distributional LQR (Extended Version)]
+-- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
+-- IEEE Transactions on Automatic Control, 2025.
