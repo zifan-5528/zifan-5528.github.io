@@ -62,6 +62,10 @@ See [https://scholar.google.com/citations?hl=zh-CN&user=LV-DrIUAAAAJ&view_op=lis
 
 == Control Theory
 
+- Exact Variance of Random Return in Distributional LQR and Its Application to Mean-Variance Optimal Control
+-- R. Teng, *Z. Wang*, Y. Gao
+
+
 - [https://ieeexplore.ieee.org/document/11020758 Policy Evaluation in Distributional LQR (Extended Version)]
 -- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
 -- IEEE Transactions on Automatic Control, 2025.
