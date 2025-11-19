@@ -17,6 +17,9 @@ See [https://scholar.google.com/citations?hl=zh-CN&user=LV-DrIUAAAAJ&view_op=lis
 - [https://arxiv.org/abs/2509.24462 Distributionally Robust Federated Learning with Outlier Resilience]
 -- *Z. Wang*, X. Yi, X. Konti, M. M. Zavlanos, and K. H. Johansson
 
+- [https://arxiv.org/abs/2511.14048 Wasserstein Distributionally Robust Nash Equilibrium Seeking with Heterogeneous Data: A Lagrangian Approach]
+-- *Z. Wang*, G. Pantazis, S. Grammatico, M. M. Zavlanos, and K. H. Johansson
+
 - [https://arxiv.org/abs/2509.08942 Group Distributionally Robust Machine Learning under Group Level Distributional Uncertainty]
 -- X. Konti, Y. Shen, *Z. Wang*, K. H. Johansson, M. J. Pencina, N. J. Economou-Zavlanos, and M. M. Zavlanos
 
