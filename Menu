@@ -1,7 +1,7 @@
 MENU
        Home                         [index.html]
-       Publications by Topic        [publications.html]
-       Publications by Year         [publications_year.html]
+       Publications                 [publications.html]
+       Publications by Topic        [publications_topic.html]
        Services                     [services.html]
 
        
