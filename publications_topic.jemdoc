@@ -5,6 +5,9 @@
 
 == Generative Artificial Intelligence
 
+- [https://arxiv.org/abs/2512.21133 SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation]
+-- X. Mo, J. Ge, *Z. Wang*, C. Lv, and K. H. Johansson
+
 - [https://arxiv.org/abs/2509.21250 Federated Flow Matching]
 -- *Z. Wang*, A. Dong, M. Selim, M. M. Zavlanos, and K. H. Johansson
 
@@ -29,7 +32,10 @@
 
 == Risk-Averse Optimization
 
-- [https://arxiv.org/abs/2409.16866 Risk-averse learning with delayed feedback]
+- Risk-Averse Learning with Varying Risk Levels
+-- S. Wang, *Z. Wang*, and K. H. Johansson
+
+- [https://arxiv.org/abs/2409.16866 Risk-Averse Learning with Delayed Feedback]
 -- S. Wang, *Z. Wang*, K. H. Johansson, and S. Hirche
 
 - [https://arxiv.org/abs/2411.19729 Risk-Averse Certification of Bayesian Neural Networks]
@@ -65,9 +71,11 @@
 
 == Control Theory
 
+- [https://arxiv.org/abs/2512.18511 Preference-based Optimization from Noisy Pairwise Comparisons]
+-- S. Wang, *Z. Wang*, and K. H. Johansson
+
 - Exact Variance of Random Return in Distributional LQR and Its Application to Mean-Variance Optimal Control
 -- R. Teng, *Z. Wang*, Y. Gao
-
 
 - [https://ieeexplore.ieee.org/document/11020758 Policy Evaluation in Distributional LQR (Extended Version)]
 -- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
