@@ -29,8 +29,7 @@
 - [https://arxiv.org/abs/2509.08942 Group Distributionally Robust Machine Learning under Group Level Distributional Uncertainty]
 -- X. Konti, Y. Shen, *Z. Wang*, K. H. Johansson, M. J. Pencina, N. J. Economou-Zavlanos, and M. M. Zavlanos
 
-- [https://arxiv.org/abs/2508.14807 Source-Guided Flow Matching]
--- *Z. Wang*, A. Harting, M. Barreau, M. M. Zavlanos, and K. H. Johansson
+
 
 
 - [https://arxiv.org/abs/2409.16866 Risk-averse learning with delayed feedback]
@@ -50,6 +49,10 @@
 
 
 == Machine Learning Conference Papers
+
+- [https://arxiv.org/abs/2508.14807 Source-Guided Flow Matching]
+-- *Z. Wang*, A. Harting, M. Barreau, M. M. Zavlanos, and K. H. Johansson
+-- ICLR-26. International Conference on Learning Representations, 2026.
 
 - [https://arxiv.org/abs/2411.19729 Risk-Averse Certification of Bayesian Neural Networks]
 -- X. Zhang, *Z. Wang*, Y. Gao, L. Romao, A. Abate, and M. Kwiatkowska
