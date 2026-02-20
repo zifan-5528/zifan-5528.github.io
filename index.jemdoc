@@ -24,18 +24,6 @@ I am currently visiting [https://las.inf.ethz.ch/ Learning & Adaptive Systems Gr
 I am broadly interested in the intersection of {{<font color="Blue" size=+0.5><b>}}control{{</b></font>}}, {{<font color="Blue" size=+0.5><b>}}machine learning{{</b></font>}}, {{<font color="Blue" size=+0.5><b>}}optimal transport{{</b></font>}}, and {{<font color="Blue" size=+0.5><b>}}game theory{{</b></font>}}. I have worked on research topics including distributionally robust optimization, CVaR optimization, distributional reinforcement learning in LQR, decision-dependent optimization. Lately, I have been exploring generative models with a special focus on flow matching models.
 
 
-== News
-- 06/2025: I give a talk at [https://sites.google.com/view/ecc-algorithmicfairness/home ECC Workshop] in Thessaloniki, Greece
-- 01/2025: I successfully defended [https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1924961&dswid=-9323 Licentiate]
-- 12/2024: I give a talk at [https://sites.google.com/view/cdc-2024-fairworkshop/home IEEE CDC Workshop] at Milan, Italy
-- 04/2024: Travel scholarship from Björns Foundation
-- 12/2023: I attend [https://cdc2023.ieeecss.org/  IEEE CDC 2023] in Singapore.
-- 11/2023: Travel grant from Karl Engvers Foundation
-- 09/2023: I attend [https://elliit.se/news-and-events/focus-period-linkoping-2023/symposium/ ELLIIT Symposium on Network Dynamics and Control] in Linköping.
-- 03/2023: I give a talk at New York University
-- 12/2022: I attend [https://cdc2022.ieeecss.org/ IEEE CDC 2022] in Mexico.
-- 06/2022: I join KTH DCS as a Doctoral student!!
-
 
 == Selected Publications
 - [https://arxiv.org/abs/2602.16796 Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning]
@@ -64,3 +52,16 @@ I am broadly interested in the intersection of {{<font color="Blue" size=+0.5><b
 - [https://ieeexplore.ieee.org/abstract/document/11177171 Asymmetric Learning in Convex Games]
 -- *Z. Wang*, X. Yi, Y. Shen, M. M. Zavlanos, and K. H. Johansson
 -- IEEE Transactions on Automatic Control, 2025.
+
+== News
+- 02/2026: [https://arxiv.org/abs/2602.16796 New preprint] on risk-sensitive generative optimization that allows to efficiently seek novel samples (in molecular design) and control worst cases (in text-to-image generation)!
+- 06/2025: I give a talk at [https://sites.google.com/view/ecc-algorithmicfairness/home ECC Workshop] in Thessaloniki, Greece
+- 01/2025: I successfully defended [https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1924961&dswid=-9323 Licentiate]
+- 12/2024: I give a talk at [https://sites.google.com/view/cdc-2024-fairworkshop/home IEEE CDC Workshop] at Milan, Italy
+- 04/2024: Travel scholarship from Björns Foundation
+- 12/2023: I attend [https://cdc2023.ieeecss.org/  IEEE CDC 2023] in Singapore.
+- 11/2023: Travel grant from Karl Engvers Foundation
+- 09/2023: I attend [https://elliit.se/news-and-events/focus-period-linkoping-2023/symposium/ ELLIIT Symposium on Network Dynamics and Control] in Linköping.
+- 03/2023: I give a talk at New York University
+- 12/2022: I attend [https://cdc2022.ieeecss.org/ IEEE CDC 2022] in Mexico.
+- 06/2022: I join KTH DCS as a Doctoral student!!
