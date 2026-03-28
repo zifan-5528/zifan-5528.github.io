@@ -26,9 +26,6 @@
 - Exact Variance of Random Return in Distributional LQR and Its Application to Mean-Variance Optimal Control
 -- R. Teng, *Z. Wang*, Y. Gao
 
-- [https://arxiv.org/abs/2509.24462 Distributionally Robust Federated Learning with Outlier Resilience]
--- *Z. Wang*, X. Yi, X. Konti, M. M. Zavlanos, and K. H. Johansson
-
 - [https://arxiv.org/abs/2509.21250 Federated Flow Matching]
 -- *Z. Wang*, A. Dong, M. Selim, M. M. Zavlanos, and K. H. Johansson
 
@@ -80,6 +77,10 @@
 
 
 == Journal Papers
+
+- [https://arxiv.org/abs/2509.24462 Distributionally Robust Federated Learning with Outlier Resilience]
+-- *Z. Wang*, X. Yi, X. Konti, M. M. Zavlanos, and K. H. Johansson
+-- Automatica, accepted.
 
 - [https://arxiv.org/abs/2404.02988 Risk-averse Learning with Non-Stationary Distributions]
 -- S. Wang, *Z. Wang*, X. Yi, M. M. Zavlanos, K. H. Johansson, S. Hirche
