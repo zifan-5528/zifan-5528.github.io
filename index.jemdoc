@@ -59,6 +59,10 @@ I am broadly interested in the intersection of {{<font color="Blue" size=+0.5><b
 -- *Z. Wang*, Y. Shen, and M. M. Zavlanos
 -- ICML-22. International Conference on Machine Learning, 2022.
 
+- [https://arxiv.org/abs/2509.24462 Distributionally Robust Federated Learning with Outlier Resilience]
+-- *Z. Wang*, X. Yi, X. Konti, M. M. Zavlanos, and K. H. Johansson
+-- Automatica, accepted.
+
 - [https://ieeexplore.ieee.org/document/10879777 Constrained Optimization with Decision-Dependent Distributions]
 -- *Z. Wang*, C. Liu, T. Parisini, M. M. Zavlanos, and K. H. Johansson
 -- IEEE Transactions on Automatic Control, 2025.
