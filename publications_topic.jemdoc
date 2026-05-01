@@ -7,6 +7,7 @@
 
 - [https://arxiv.org/abs/2602.16796 Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning]
 -- *Z. Wang*, R. De Santi, X. Mo, M. M. Zavlanos, A. Krause, K. H. Johansson
+-- ICML-26. International Conference on Machine Learning, 2026.
 
 - [https://arxiv.org/abs/2512.21133 SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation]
 -- X. Mo, J. Ge, *Z. Wang*, C. Lv, and K. H. Johansson
