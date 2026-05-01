@@ -16,9 +16,7 @@ Email: /zifanw/ \[@\] kth \[DOT\] se, /zifwang/ \[@\] ethz \[DOT\] ch \n
 ~~~
 
 == About me
-I am a fourth-year Ph.D. student affiliated with Division of Decision and Control Systems (DCS) at KTH Royal Institute of Technology. I am fortunate to jointly work with [https://people.kth.se/~kallej/ Prof. Karl H. Johansson] at KTH and [https://www.michaelmzavlanos.org/ Prof. Michael M. Zavlanos] at Duke University. Before that, I received both the master and bachelor degrees at Honors School of Harbin Institute of Technology. 
-
-I am currently visiting [https://las.inf.ethz.ch/ Learning & Adaptive Systems Group] at ETH Zurich, hosted by [https://las.inf.ethz.ch/krausea Prof. Andreas Krause]. Look forward to the discussions and meetings in Zurich!
+I am a fourth-year Ph.D. student affiliated with Division of Decision and Control Systems (DCS) at KTH Royal Institute of Technology. I am fortunate to jointly work with [https://people.kth.se/~kallej/ Prof. Karl H. Johansson] at KTH and [https://www.michaelmzavlanos.org/ Prof. Michael M. Zavlanos] at Duke University. Recently, from January to April 2026, I completed a research visit at [https://las.inf.ethz.ch/ Learning & Adaptive Systems Group] at ETH Zurich, hosted by [https://las.inf.ethz.ch/krausea Prof. Andreas Krause]. Before that, I received both the master and bachelor degrees at Honors School of Harbin Institute of Technology. 
 
 {{<font color="Blue" size=+0.5><b>}}HIRE:{{</b></font>}} If you are a master/bachelor student at KTH, and interested in working on generative models through the [https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/ digital future summer internship], feel free to drop me an email.
 
@@ -30,9 +28,10 @@ I am broadly interested in the intersection of {{<font color="Blue" size=+0.5><b
 
 
 == News
+- 04/2026: One paper on [https://arxiv.org/abs/2602.16796 Tail-aware Flow Fine-Tuning (TFFT)] accepted at *ICML 2026*! 
 - 04/2026: Two papers accepted at IFAC WC 2026! See you in Busan, Korea!
 - 02/2026: [https://arxiv.org/abs/2602.16796 New preprint] on risk-sensitive generative optimization that allows to efficiently seek novel samples (in molecular design) and control worst cases (in text-to-image generation)!
-- 02/2026: One paper on fine-tuning flow matching models accepted at *ICLR 2026*: [https://arxiv.org/abs/2508.14807 Source-Guided Flow Matching]
+- 02/2026: One paper on flow matching guidance accepted at *ICLR 2026*: [https://arxiv.org/abs/2508.14807 Source-Guided Flow Matching]
 - 06/2025: I give a talk at [https://sites.google.com/view/ecc-algorithmicfairness/home ECC Workshop] in Thessaloniki, Greece
 - 01/2025: I successfully defended [https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1924961&dswid=-9323 Licentiate]
 - 12/2024: I give a talk at [https://sites.google.com/view/cdc-2024-fairworkshop/home IEEE CDC Workshop] at Milan, Italy
