@@ -60,6 +60,10 @@ I am broadly interested in the intersection of {{<font color="Blue" size=+0.5><b
 -- *Z. Wang*, Y. Shen, and M. M. Zavlanos
 -- ICML-22. International Conference on Machine Learning, 2022.
 
+- [https://proceedings.mlr.press/v211/wang23c.html Policy Evaluation in Distributional LQR]
+-- *Z. Wang*, Y. Gao, S. Wang, M. M. Zavlanos, A. Abate, and K. H. Johansson
+-- L4DC-23. Learning for Dynamics and Control, 2023. {{<font color="Red" size=+0.5><b>}}（Oral Presentation){{</b></font>}}
+
 - [https://arxiv.org/abs/2509.24462 Distributionally Robust Federated Learning with Outlier Resilience]
 -- *Z. Wang*, X. Yi, X. Konti, M. M. Zavlanos, and K. H. Johansson
 -- Automatica, accepted.
