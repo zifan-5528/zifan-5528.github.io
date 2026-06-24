@@ -1,5 +1,0 @@
-git status
-
-git commit -am ''
-
-git diff
