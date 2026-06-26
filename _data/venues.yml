@@ -5,5 +5,26 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+
+"Automatica":
+  color: "#00369f"
+
+"IEEE TAC":
+  color: "#00369f"
+
+"IS":
+  color: "#00369f"
+
+
+
 "Vision":
+  color: "#009f36"
+
+"CDC":
+  color: "#009f36"
+
+"ACC":
+  color: "#009f36"
+
+"IFAC":
   color: "#009f36"
