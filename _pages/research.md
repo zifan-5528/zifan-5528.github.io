@@ -8,7 +8,14 @@ nav_order: 2
 
 ## Research Overview
 
-{% include figure.liquid path="assets/img/research_overview.png" title="Research overview" class="img-fluid rounded z-depth-1" %}
+<p align="center">
+  <img
+    src="/assets/img/research_overview.png"
+    alt="Research overview"
+    style="width: 65%; max-width: 650px"
+    class="rounded z-depth-1"
+  />
+</p>
 
 ## Current Research Directions
 
