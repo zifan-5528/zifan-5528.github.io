@@ -28,7 +28,7 @@ latest_posts:
 
 <p align="right">
   <img
-    src="/assets/img/zifan_profile.jpg"
+    src="/assets/img/bio_zifan.png"
     alt="Zifan Wang"
     style="width: 160px; border-radius: 50%"
   />
