@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted at **IFAC WC** 2026! 
+Two papers accepted at **IFAC WC** 2026!

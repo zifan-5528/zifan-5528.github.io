@@ -12,5 +12,4 @@ nav_order: 2
 
 ## Current Research Directions
 
-
 Coming soon.
