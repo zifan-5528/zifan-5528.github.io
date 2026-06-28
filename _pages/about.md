@@ -4,9 +4,17 @@ title: about
 permalink: /
 subtitle: Ph.D. student at KTH Royal Institute of Technology
 
+<p align="right">
+  <img
+    src="/assets/img/zifan_profile.jpg"
+    alt="Zifan Wang"
+    style="width: 160px; border-radius: 50%"
+  />
+</p>
+
 profile:
   align: right
-  image: bio_zifan.png
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KTH Royal Institute of Technology</p>
