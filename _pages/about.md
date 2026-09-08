@@ -144,6 +144,18 @@ My research centers on optimization over probability distributions, at the inter
 </section>
 
 <style>
+  .profile > figure {
+    width: min(100%, 210px);
+    margin-left: auto;
+  }
+
+  .profile > figure picture,
+  .profile > figure img {
+    display: block;
+    width: 100% !important;
+    height: auto;
+  }
+
   .research-map {
     clear: both;
     margin: 2.75rem 0 2.25rem;
@@ -226,6 +238,11 @@ My research centers on optimization over probability distributions, at the inter
   }
 
   @media (max-width: 575.98px) {
+    .profile > figure {
+      width: min(50vw, 180px);
+      margin-right: auto;
+    }
+
     .research-map {
       margin-top: 2.25rem;
     }
