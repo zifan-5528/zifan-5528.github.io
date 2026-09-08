@@ -60,6 +60,7 @@ My research centers on optimization over probability distributions, at the inter
                 <a href="{{ '/publications/' | relative_url }}#wang2024outlier">Outlier-Robust DRO</a>
               </li>
               <li><a href="https://arxiv.org/abs/2509.24462">Outlier-Robust Federated Learning</a></li>
+              <li><a href="https://arxiv.org/abs/2511.14048">Distributionally robust games</a></li>
             </ul>
           </div>
           <div class="research-map__topic">
@@ -72,7 +73,8 @@ My research centers on optimization over probability distributions, at the inter
           <div class="research-map__topic">
             <h3>Decision-Dependent Optimization</h3>
             <ul>
-              <li><a href="https://arxiv.org/abs/2310.02384">Constrained Optimization</a></li>
+              <li><a href="https://arxiv.org/abs/2310.02384">Constrained Optimization in Dual Space</a></li>
+              <li><a href="https://arxiv.org/abs/2508.08856">Projected Gradient-Descent</a></li>
             </ul>
           </div>
           <div class="research-map__topic">
@@ -80,7 +82,7 @@ My research centers on optimization over probability distributions, at the inter
             <ul>
               <li><a href="https://arxiv.org/abs/2307.08812">Asymmetric Games</a></li>
               <li><a href="https://arxiv.org/abs/2403.10399">Risk-Averse Nash Equilibria</a></li>
-              <li><a href="https://arxiv.org/abs/2511.14048">Distributionally robust games</a></li>
+              <li><a href="https://arxiv.org/abs/2508.09111">Asynchronous Games</a></li>
             </ul>
           </div>
         </div>
@@ -89,7 +91,7 @@ My research centers on optimization over probability distributions, at the inter
   <div class="research-map__row">
     <h2 class="research-map__label">Methods in Generative Modeling</h2>
     <div class="research-map__content">
-      <p class="research-map__intro">I develop methods for adapting, guiding, and distributing generative models.</p>
+      <p class="research-map__intro">I develop methods for adapting and steering generative models.</p>
         <div class="research-map__grid">
           <div class="research-map__topic">
             <h3>Risk-Sensitive Fine-Tuning</h3>
@@ -144,18 +146,6 @@ My research centers on optimization over probability distributions, at the inter
 </section>
 
 <style>
-  .profile > figure {
-    width: min(100%, 210px);
-    margin-left: auto;
-  }
-
-  .profile > figure picture,
-  .profile > figure img {
-    display: block;
-    width: 100% !important;
-    height: auto;
-  }
-
   .research-map {
     clear: both;
     margin: 2.75rem 0 2.25rem;
@@ -238,11 +228,6 @@ My research centers on optimization over probability distributions, at the inter
   }
 
   @media (max-width: 575.98px) {
-    .profile > figure {
-      width: min(50vw, 180px);
-      margin-right: auto;
-    }
-
     .research-map {
       margin-top: 2.25rem;
     }
