@@ -54,7 +54,7 @@ My research centers on optimization over probability distributions, at the inter
             </ul>
           </div>
           <div class="research-map__topic">
-            <h3>Distributionally Robust Optimization</h3>
+            <h3>Distributionally Robust OPT</h3>
             <ul>
               <li>
                 <a href="{{ '/publications/' | relative_url }}#wang2024outlier">Outlier-Robust DRO</a>
@@ -66,8 +66,8 @@ My research centers on optimization over probability distributions, at the inter
           <div class="research-map__topic">
             <h3>Distributional RL</h3>
             <ul>
-              <li><a href="https://arxiv.org/abs/2303.13657">Distributional LQR</a></li>
-              <li><a href="https://arxiv.org/abs/2401.10240">Distributional LQR (Extended)</a></li>
+              <li><a href="https://arxiv.org/abs/2303.13657">Risk-averse LQR</a></li>
+              <li><a href="https://arxiv.org/abs/2401.10240">Distributional policy evaluation in LQR</a></li>
             </ul>
           </div>
           <div class="research-map__topic">
