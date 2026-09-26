@@ -71,7 +71,7 @@ My research centers on optimization over probability distributions, at the inter
             </ul>
           </div>
           <div class="research-map__topic">
-            <h3>Decision-Dependent Optimization</h3>
+            <h3>Decision-Dependent OPT</h3>
             <ul>
               <li><a href="https://arxiv.org/abs/2310.02384">Constrained Optimization in Dual Space</a></li>
               <li><a href="https://arxiv.org/abs/2508.08856">Projected Gradient-Descent</a></li>
@@ -111,6 +111,12 @@ My research centers on optimization over probability distributions, at the inter
               <li><a href="https://arxiv.org/abs/2509.21250">Federated Flow Matching</a></li>
             </ul>
           </div>
+          <div class="research-map__topic">
+            <h3>Constrained Generative Models</h3>
+            <ul>
+              <li> CCFO (coming soon)</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -125,6 +131,7 @@ My research centers on optimization over probability distributions, at the inter
           <h3>Scientific Discovery</h3>
           <ul>
             <li><a href="https://arxiv.org/abs/2602.16796">Tail-Aware Flow Fine-Tuning</a></li>
+            <li> CCFO </li>
           </ul>
         </div>
         <div class="research-map__topic">
