@@ -36,14 +36,14 @@ I am a fourth-year Ph.D. student affiliated with Division of Decision and Contro
 
 From January to April 2026, I was visiting Learning & Adaptive Systems Group at ETH Zurich, hosted by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea). Prior to my PhD, I received both the master and bachelor degrees at Honors School of Harbin Institute of Technology.
 
-My research centers on optimization over probability distributions, at the intersection of control, optimization, and generative modeling. I am broadly interested in the intersection of generative model, control, and optimization. This perspective has carried me from control and optimal transport through robust, risk-sensitive learning, and now to steering generative models. My goal is to develop the mathematical and algorithmic foundations for reliable and controllable generative-model steering, and to translate these advances into applications such as scientific discovery.
+My research centers on optimization over probability distributions, at the intersection of control, optimization, and generative modeling. This perspective has carried me from control and optimal transport through robust, risk-sensitive learning, and now to steering generative models. My goal is to develop the mathematical and algorithmic foundations for controllable and efficient generative-model steering, and to translate these advances into applications in scientific discovery.
 
 <section class="research-map" aria-label="Research overview" markdown="0">
   <div class="research-map__row">
     <h2 class="research-map__label">Methods in Decision-Making</h2>
     <div class="research-map__content">
       <p class="research-map__intro">
-        I develop distributional learning and optimization methods for decision-making and generative models.
+        I develop distributional learning and optimization methods for decision-making.
       </p>
       <div class="research-map__grid">
           <div class="research-map__topic">
@@ -91,7 +91,7 @@ My research centers on optimization over probability distributions, at the inter
   <div class="research-map__row">
     <h2 class="research-map__label">Methods in Generative Modeling</h2>
     <div class="research-map__content">
-      <p class="research-map__intro">I develop methods for adapting and steering generative models.</p>
+      <p class="research-map__intro">I also develop methods for adapting and steering generative models.</p>
         <div class="research-map__grid">
           <div class="research-map__topic">
             <h3>Risk-Sensitive Fine-Tuning</h3>
@@ -130,7 +130,7 @@ My research centers on optimization over probability distributions, at the inter
     <h2 class="research-map__label">Applications</h2>
     <div class="research-map__content">
       <p class="research-map__intro">
-        I have been focusing on developing general-purpose methods that transfer across domains. Examples:
+        Some selected applications include
       </p>
       <div class="research-map__grid">
         <div class="research-map__topic">
