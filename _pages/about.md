@@ -117,6 +117,12 @@ My research centers on optimization over probability distributions, at the inter
               <li> CCFO (coming soon)</li>
             </ul>
           </div>
+          <div class="research-map__topic">
+            <h3>Robust generation under distribution shifts</h3>
+            <ul>
+              <li> GDRGO (coming soon)</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -132,6 +138,7 @@ My research centers on optimization over probability distributions, at the inter
           <ul>
             <li><a href="https://arxiv.org/abs/2602.16796">Tail-Aware Flow Fine-Tuning</a></li>
             <li> CCFO </li>
+            <li> GDRGO </li>
           </ul>
         </div>
         <div class="research-map__topic">
