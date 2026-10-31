@@ -32,7 +32,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a fourth-year Ph.D. student affiliated with Division of Decision and Control Systems (DCS) at KTH Royal Institute of Technology. I am fortunate to jointly work with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/) at KTH and [Prof. Michael M. Zavlanos](https://www.michaelmzavlanos.org/) at Duke University.
+I am a final-year Ph.D. student affiliated with Division of Decision and Control Systems (DCS) at KTH Royal Institute of Technology. I am fortunate to jointly work with [Prof. Karl H. Johansson](https://people.kth.se/~kallej/) at KTH and [Prof. Michael M. Zavlanos](https://www.michaelmzavlanos.org/) at Duke University.
 
 From January to April 2026, I was visiting Learning & Adaptive Systems Group at ETH Zurich, hosted by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea). Prior to my PhD, I received both the master and bachelor degrees at Honors School of Harbin Institute of Technology.
 
@@ -97,6 +97,7 @@ My research centers on optimization over probability distributions, at the inter
             <h3>Risk-Sensitive Fine-Tuning</h3>
             <ul>
               <li><a href="https://arxiv.org/abs/2602.16796">Tail-Aware Flow Fine-Tuning</a></li>
+              <li> DFFT</li>
             </ul>
           </div>
           <div class="research-map__topic">
@@ -114,13 +115,13 @@ My research centers on optimization over probability distributions, at the inter
           <div class="research-map__topic">
             <h3>Constrained Generative Models</h3>
             <ul>
-              <li> CCFO (coming soon)</li>
+              <li> CCFO</li>
             </ul>
           </div>
           <div class="research-map__topic">
             <h3>Robust generation under distribution shifts</h3>
             <ul>
-              <li> GDRGO (coming soon)</li>
+              <li> GDRGO</li>
             </ul>
           </div>
         </div>
