@@ -13,6 +13,7 @@ profile:
     <p>Stockholm, Sweden</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+research_flow: true # set to false to hide the research animation
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -37,6 +38,50 @@ I am a final-year Ph.D. student affiliated with Division of Decision and Control
 From January to April 2026, I was visiting Learning & Adaptive Systems Group at ETH Zurich, hosted by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea). Prior to my PhD, I received both the master and bachelor degrees at Honors School of Harbin Institute of Technology.
 
 My research centers on optimization over probability distributions, at the intersection of control, optimization, and generative modeling. This perspective has carried me from control and optimal transport through robust, risk-sensitive learning, and now to steering generative models. My goal is to develop the mathematical and algorithmic foundations for controllable and efficient generative-model steering, and to translate these advances into applications in scientific discovery.
+
+{% if page.research_flow %}
+
+<link rel="stylesheet" href="{{ '/assets/css/research-flow.css' | relative_url }}" />
+
+<section
+  class="research-flow"
+  data-research-flow
+  aria-label="A left-hand burst of light gradually forms Welcome, then the same particles swirl into a Möbius manifold before repeating"
+  markdown="0"
+>
+  <div class="research-flow__field">
+    <canvas class="research-flow__canvas" aria-hidden="true"></canvas>
+    <svg class="research-flow__fallback" viewBox="0 0 1000 600" role="img" aria-label="A luminous Möbius manifold">
+      <defs>
+        <linearGradient id="research-flow-gradient" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#8fc8ff"></stop>
+          <stop offset="55%" stop-color="#b5a0ff"></stop>
+          <stop offset="100%" stop-color="#e3b0f4"></stop>
+        </linearGradient>
+      </defs>
+      <g fill="none" stroke="url(#research-flow-gradient)" stroke-linecap="round" stroke-width="1.2">
+        <path d="M260 320 C220 85 680 75 760 275 C825 440 360 430 300 225 C250 70 690 135 740 345 C775 495 260 490 260 320 Z" opacity="0.8"></path>
+        <path d="M280 320 C240 110 660 95 740 275 C790 420 380 405 320 230 C275 100 670 155 720 345 C750 470 280 460 280 320 Z" opacity="0.45"></path>
+        <path
+          d="M300 320 C265 135 640 120 720 275 C760 395 400 385 340 240 C300 130 650 175 700 345 C730 445 300 435 300 320 Z"
+          opacity="0.35"
+        ></path>
+      </g>
+    </svg>
+  </div>
+  <p class="research-flow__caption">Steering Generative Distributions</p>
+  <div class="research-flow__controls">
+    <button class="research-flow__replay" type="button" aria-label="Replay animation from the beginning" hidden>Replay</button>
+    <button class="research-flow__toggle" type="button" aria-label="Pause animation" aria-pressed="false" hidden>
+      <span class="research-flow__toggle-icon" aria-hidden="true"></span>
+      <span class="research-flow__toggle-label">Pause</span>
+    </button>
+  </div>
+</section>
+
+<script src="{{ '/assets/js/research-flow.js' | relative_url }}" defer></script>
+
+{% endif %}
 
 <section class="research-map" aria-label="Research overview" markdown="0">
   <div class="research-map__row">

@@ -1,0 +1,156 @@
+.research-flow {
+  --flow-blue: 137, 189, 255;
+  --flow-violet: 179, 151, 255;
+  --flow-magenta: 226, 172, 245;
+  --global-text-color: #e6e1f5;
+  --global-text-color-light: #bcb2d0;
+  --global-theme-color: #b3a0eb;
+  position: relative;
+  clear: both;
+  margin: 2.25rem 0 2.75rem;
+  overflow: hidden;
+  border-radius: 18px;
+  background: radial-gradient(ellipse at 50% 43%, #101027 0%, #070714 42%, #020309 84%);
+  color: #e6e1f5;
+  isolation: isolate;
+  scroll-margin-top: 4.5rem;
+}
+.research-flow::after {
+  position: absolute;
+  z-index: 1;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(0deg, rgba(2, 3, 9, 0.8), transparent 17%, transparent 87%, rgba(2, 3, 9, 0.3));
+  content: "";
+  pointer-events: none;
+}
+.research-flow__field {
+  position: relative;
+  height: 330px;
+  overflow: hidden;
+}
+.research-flow__canvas,
+.research-flow__fallback {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.research-flow__canvas {
+  position: absolute;
+  inset: 0;
+  visibility: hidden;
+  filter: drop-shadow(0 0 3px rgba(165, 161, 255, 0.58)) drop-shadow(0 0 9px rgba(142, 106, 255, 0.3));
+}
+.research-flow.is-ready .research-flow__canvas {
+  visibility: visible;
+}
+.research-flow.is-ready .research-flow__fallback {
+  visibility: hidden;
+}
+.research-flow .research-flow__caption {
+  position: absolute;
+  z-index: 2;
+  right: 1.5rem;
+  bottom: 1.15rem;
+  left: 1.5rem;
+  margin: 0;
+  color: #ded8ed !important;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.045em;
+  line-height: 1.5;
+  text-align: center;
+}
+.research-flow.is-ready .research-flow__caption {
+  opacity: 0;
+}
+.research-flow__controls {
+  position: absolute;
+  z-index: 2;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+.research-flow__toggle,
+.research-flow__replay {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid rgba(206, 193, 247, 0.18);
+  border-radius: 999px;
+  background: rgba(18, 15, 36, 0.5);
+  color: #ded8ed;
+  font: inherit;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  cursor: pointer;
+  backdrop-filter: blur(8px);
+}
+.research-flow__toggle:hover,
+.research-flow__replay:hover {
+  border-color: rgba(206, 193, 247, 0.45);
+  background: rgba(54, 41, 84, 0.6);
+}
+.research-flow__toggle:focus-visible,
+.research-flow__replay:focus-visible {
+  outline: 2px solid #b6a2ff;
+  outline-offset: 3px;
+}
+.research-flow__toggle[hidden],
+.research-flow__replay[hidden] {
+  display: none;
+}
+.research-flow__toggle-icon {
+  box-sizing: border-box;
+  width: 0.55rem;
+  height: 0.65rem;
+  border-right: 2px solid currentColor;
+  border-left: 2px solid currentColor;
+}
+.research-flow__toggle[aria-pressed="true"] .research-flow__toggle-icon {
+  width: 0;
+  height: 0;
+  border-top: 0.34rem solid transparent;
+  border-right: 0;
+  border-bottom: 0.34rem solid transparent;
+  border-left: 0.55rem solid currentColor;
+}
+.research-flow__toggle-label {
+  color: inherit;
+}
+@media (max-width: 575.98px) {
+  .research-flow {
+    margin: 1.75rem 0 2.25rem;
+    border-radius: 12px;
+  }
+  .research-flow__field {
+    height: 275px;
+  }
+  .research-flow .research-flow__caption {
+    right: 1rem;
+    bottom: 1.35rem;
+    left: 1rem;
+    font-size: 0.875rem;
+    letter-spacing: 0.025em;
+  }
+  .research-flow__controls {
+    top: 0.75rem;
+    right: 0.75rem;
+  }
+  .research-flow__toggle {
+    padding: 0.5rem;
+  }
+  .research-flow__toggle-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}
