@@ -24,4 +24,4 @@ My research centers on reliable and efficient distributional optimization for de
 - Mathematical foundations of distributional optimization
 - Risk-averse, robust, and constrained learning
 - Fine-tuning of diffusion and flow models
-- Applications in scientific discovery
+- Applications in scientific discovery and robotics
